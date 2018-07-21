@@ -1,19 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Quant Python 101: Introduction]]></title>
+    <url>%2F2018%2F07%2F21%2FQuant-Python-101-Introduction%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[Study Notes - ISLR]]></title>
+    <url>%2F2018%2F07%2F21%2FStudy-Notes-ISLR%2F</url>
+    <content type="text"></content>
+      <tags>
+        <tag>ISLR</tag>
+        <tag>Machine Learning</tag>
+        <tag>R</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Quant Python 101: Pandas]]></title>
+    <url>%2F2018%2F07%2F21%2FQuant-Python-101-Pandas%2F</url>
+    <content type="text"></content>
+      <tags>
+        <tag>Quant</tag>
+        <tag>Python</tag>
+        <tag>Pandas</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Quant Python 101: NumPy]]></title>
+    <url>%2F2018%2F07%2F21%2FQuant-Python-101-NumPy%2F</url>
+    <content type="text"></content>
+      <tags>
+        <tag>Quant</tag>
+        <tag>NumPy</tag>
+        <tag>Python</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Basic Strategy(1)-Moving Average]]></title>
     <url>%2F2018%2F07%2F21%2FBasic-Strategy-1-Moving-Average%2F</url>
     <content type="text"></content>
+      <tags>
+        <tag>Quant</tag>
+        <tag>Strategy</tag>
+        <tag>Moving Average</tag>
+        <tag>MA</tag>
+        <tag>Algorism</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[Step by Step to Connect Onanda]]></title>
     <url>%2F2018%2F07%2F20%2FStep-by-Step-to-Connect-Onanda%2F</url>
     <content type="text"></content>
+      <tags>
+        <tag>Python</tag>
+        <tag>API</tag>
+        <tag>ONADA</tag>
+        <tag>FX data</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2F2018%2F07%2F17%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    <content type="text"><![CDATA[This is the “Hello World” to my Blog.Many Thanks to wangwlj’s Blog. http://wangwlj.com/2017/09/09/blog-opti/I want to set up my Blog a few years ago when I was in freshman year at UT Austin. However, due to many unforeseeableWelcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
   </entry>
   <entry>
     <title><![CDATA[Quant Python 101: Read/Write CSV]]></title>
