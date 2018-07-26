@@ -8,13 +8,14 @@
   <entry>
     <title><![CDATA[Quant Python 101: Introduction]]></title>
     <url>%2F2018%2F07%2F21%2FQuant-Python-101-Introduction%2F</url>
-    <content type="text"><![CDATA[I. Quant Investing Background 量化投资背景Quant is the abbreviation of Quantitative, meaning relating to, measuring, or measured by the quantity of something rather than its quality, according to its definition. Quantitative Investing, or Quant Investing is an investment method that applies mathematics, statistics and computer science to Finance fields. II. Quant Investing Procedures 量化投资的过程Just like a Phd student! No one knows the answer, even your boss. III. Quant Investing Strategies 量化投资策略分类Many Quant Strategies are based on original trading strategies, including technical analysis model. Quant(computer scientists) just apply those “Old” strategies in the computer-based system. While thanks to many mathematicians, statistics, and data scientist, many new strategies are invented and works really well. For this generation, everyone could create its own strategies and make a profit, but before that, we still need the building blocks to design our own strategies. Stock selection 量化择股Time selection 量化择时Stock Index Futures 股指期货Commodities Futures 商品期货Statistics 统计套利Options 期权套利Algo Trading算法交易Assets Allocation资产配置Machine Learning and Text Mining (to be continued)High Frequency 高频策略 (to be continued)]]></content>
+    <content type="text"><![CDATA[I. Quant Investing Background 量化投资背景 Quant is the abbreviation of Quantitative, meaning relating to, measuring, or measured by the quantity of something rather than its quality, according to its definition. Quantitative Investing, or Quant Investing is an investment method that applies mathematics, statistics and computer science to Finance fields. II. Quant Investing Procedures 量化投资的过程Just like a Phd student! No one knows the answer, even your boss. III. Quant Investing Strategies 量化投资策略分类Many Quant Strategies are based on original trading strategies, including technical analysis model. Quant(computer scientists) just apply those “Old” strategies in the computer-based system. While thanks to many mathematicians, statistics, and data scientist, many new strategies are invented and works really well. For this generation, everyone could create its own strategies and make a profit, but before that, we still need the building blocks to design our own strategies. Stock selection 量化择股Time selection 量化择时Stock Index Futures 股指期货Commodities Futures 商品期货Statistics 统计套利Options 期权套利Algo Trading算法交易Assets Allocation资产配置Machine Learning and Text Mining (to be continued)High Frequency 高频策略 (to be continued)]]></content>
   </entry>
   <entry>
     <title><![CDATA[Study Notes - ISLR]]></title>
     <url>%2F2018%2F07%2F21%2FStudy-Notes-ISLR%2F</url>
-    <content type="text"></content>
+    <content type="text"><![CDATA[An Introduction to Statistical Learning with Applications in R, namely ISLR, is the “bible” of machine learning(statistical learning). This book is one of my favorite textbook at LSE, where one of my professor have got involved in the writing process. You can download this book online for completely free at http://www-bcf.usc.edu/~gareth/ISL/. Well, unfortunately, ISLR is based on R instead of Python. So as a study notes, I am not going to translate or rephrase this book. Rather I am going to try to use Python to replicate the processes and machine learning methods. Hope you enjoy.]]></content>
       <tags>
+        <tag>Python</tag>
         <tag>ISLR</tag>
         <tag>Machine Learning</tag>
         <tag>R</tag>
@@ -24,6 +25,9 @@
     <title><![CDATA[Quant Python 101: Pandas]]></title>
     <url>%2F2018%2F07%2F21%2FQuant-Python-101-Pandas%2F</url>
     <content type="text"><![CDATA[123from pandas_datareader import data, wbimport pandas_datareader as pdrpdr.get_data_fred(&apos;GS10&apos;)]]></content>
+      <categories>
+        <category>Quant 101</category>
+      </categories>
       <tags>
         <tag>Quant</tag>
         <tag>Python</tag>
@@ -33,7 +37,10 @@
   <entry>
     <title><![CDATA[Quant Python 101: NumPy]]></title>
     <url>%2F2018%2F07%2F21%2FQuant-Python-101-NumPy%2F</url>
-    <content type="text"></content>
+    <content type="text"><![CDATA[]]></content>
+      <categories>
+        <category>Quant 101</category>
+      </categories>
       <tags>
         <tag>Quant</tag>
         <tag>NumPy</tag>
